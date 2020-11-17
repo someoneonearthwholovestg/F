@@ -10,15 +10,19 @@
 
 ## Deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Gowtham0625/force-subscribe-telegram-bot/tree/master)
+- Private for Abir:
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AbirHasan2005/force-subscribe-telegram-bot/tree/master)
 
+- Private for Sourav Bhaia:
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AbirHasan2005/force-subscribe-telegram-bot/tree/Sourav-Patch)
 
+- Public:
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ### Installation
 - Clone this repo
 ```
-git clone https://github.com/viperadnan-git/force-subscribe-telegram-bot
+git clone https://github.com/AbirHasan2005/force-subscribe-telegram-bot
 ```
 - Change directory
 ```
@@ -41,3 +45,4 @@ python3 bot.py
 ## Thanks to
 - [PyroGram](https://PyroGram.org)
 - [Hasibul Kabir](https://GitHub.com/hasibulkabir) and [Spechide](https://GitHub.com/spechide) for helping.
+- [AbirHasan2005](https://t.me/linux_repo) Edits :/
