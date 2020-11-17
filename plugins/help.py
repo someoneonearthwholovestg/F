@@ -46,13 +46,13 @@ def map(pos):
         button = [
             [InlineKeyboardButton(text = 'Join Telegram Channel', url="https://t.me/Discovery_Updates")],
             [InlineKeyboardButton(text = 'Feature Request & Issues', url=url)],
-            [InlineKeyboardButton(text = '<--', callback_data = f"help+{pos-1}")]
+            [InlineKeyboardButton(text = 'Back', callback_data = f"help+{pos-1}")]
         ]
     else:
         button = [
             [
-                InlineKeyboardButton(text = '<--', callback_data = f"help+{pos-1}"),
-                InlineKeyboardButton(text = '-->', callback_data = f"help+{pos+1}")
+                InlineKeyboardButton(text = 'Back', callback_data = f"help+{pos-1}"),
+                InlineKeyboardButton(text = 'Next', callback_data = f"help+{pos+1}")
             ],
         ]
     return button
