@@ -42,9 +42,9 @@ def map(pos):
             [InlineKeyboardButton(text = 'Back', callback_data = "help+2")]
         ]
     elif(pos==len(tr.HELP_MSG)-1):
-        url = "https://t.me/linux_repo"
+        url = "https://t.me/viperscloud"
         button = [
-            [InlineKeyboardButton(text = 'Join Telegram Channel', url="https://t.me/Discovery_Updates")],
+            [InlineKeyboardButton(text = 'Join Telegram Channel', url="https://t.me/viperscloud")],
             [InlineKeyboardButton(text = 'Feature Request & Issues', url=url)],
             [InlineKeyboardButton(text = 'Back', callback_data = f"help+{pos-1}")]
         ]
