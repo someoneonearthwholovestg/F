@@ -1,14 +1,14 @@
 {
-  "name": "MeG-ForceSub-Bot",
-  "description": "This is a telegram bot writen in python for managing group/channel.",
+  "name": "VIPERS CLOUD FORCE SUBBOT",
+  "description": "This Is A Telegram Bot Writen In Python For Managing Group/Channel.",
   "keywords": [
     "telegram",
     "meg-forcesub",
     "forcesub"
   ],
-  "repository": "https://github.com/Gowtham0625/force-subscribe-telegram-bot",
-  "success_url": "https://github.com/Gowtham0625/force-subscribe-telegram-bot",
-  "website": "https://github.com/Gowtham0625/force-subscribe-telegram-bot",  
+  "repository": "https://github.com/mr-U-I/ForceSubBot.git",
+  "success_url": "https://github.com/mr-U-I/ForceSubBot/tree/master",
+  "website": "https://github.com/mr-U-I/ForceSubBot/blo",  
   "addons": [],
   "buildpacks": [],
   "formation": {
