@@ -9,12 +9,9 @@
 - [ ] LOGGER support.
 
 ## Deploy
+## Heroku Deployable Method 👇:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Gowtham0625/force-subscribe-telegram-bot/tree/master)
-
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/mr-U-I/ForceSubBot)
 ### Installation
 - Clone this repo
 ```
