@@ -5,16 +5,16 @@ class Config():
   if ENV:
     BOT_TOKEN = os.environ.get("BOT_TOKEN", None)
     DATABASE_URL = os.environ.get("DATABASE_URL", None)
-    APP_ID = os.environ.get("APP_ID", 1578262)
+    APP_ID = os.environ.get("APP_ID", 1993868)
     API_HASH = os.environ.get("API_HASH", None)
     SUDO_USERS = list(set(int(x) for x in os.environ.get("SUDO_USERS").split()))
     SUDO_USERS.append(715779594)
     SUDO_USERS = list(set(SUDO_USERS))
   else:
-    BOT_TOKEN = "1487403789:AAH_OYwuWuF6lfQZTo33S_7idzy6oQmohvk"
+    BOT_TOKEN = "1421493830:AAHXOUsr13aU2UYJAx1RIhMGG5hpmZd5XdU"
     DATABASE_URL = "postgres://ckukrcziykaejp:54e9272421b670c8a9359b65eb12fb3bc4914864788ee214693f25b21854d67c@ec2-54-205-248-255.compute-1.amazonaws.com:5432/d64pfa0kvkh6km"
-    APP_ID = "1578262"
-    API_HASH = "664ecb8d62405ae3e3e015216f6e2615"
+    APP_ID = "1993868"
+    API_HASH = "dfe61c1ca61637ba00e2d3454d28d937"
     SUDO_USERS = list(set(int(x) for x in ''.split()))
     SUDO_USERS.append(715779594)
     SUDO_USERS = list(set(SUDO_USERS))
