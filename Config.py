@@ -24,13 +24,13 @@ class Messages():
       HELP_MSG = [
         ".",
 
-        "**Force Subscribe**\n__Force group members to join a specific channel before sending messages in the group.\nI will mute members if they not joined your channel and tell them to join the channel and unmute themself by pressing a button.__",
+        "**Force Subscribe**\n__Force Group Members To Join a Specific Channel Vefore Sending Messages In The Group.\nI Will Mute Members If They Not Joined Your Channel and Tell Them To Join The Channel and Unmute Themselves By Pressing a Button.__",
         
-        "**Setup**\n__First of all add me in the group as admin with ban users permission and in the channel as admin.\nNote: Only creator of the group can setup me and I will leave the chat if i am not an admin in the chat.__",
+        "**Setup**\n__First Of All Add Me In The Group as Admin With Ban Users Permission and In The Channel as Admin.\nNote: Only Creator Of The Group Can Setup Me and I Will Leave The Chat If I am Not an Admin In The Chat.__",
         
-        "**Commmands**\n__/ForceSubscribe - To get the current settings.\n/ForceSubscribe no/off/disable - To turn off ForceSubscribe.\n/ForceSubscribe {channel username} - To turn on and setup the channel.\n/ForceSubscribe clear - To unmute all members who muted by me.\n\nNote: /FSub is an alias of /ForceSubscribe__",
+        "**Commmands**\n__/ForceSubscribe - To Get The Current Settings.\n/ForceSubscribe no/off/disable - To Turn Off ForceSubscribe.\n/ForceSubscribe {channel username} - To Turn on And Setup The Channel.\n/ForceSubscribe Clear - To Unmute all Members Who Muted By Me.\n\nNote: /FSub Is An Alias Of /ForceSubscribe__",
         
-        "**Developed by @AbirHasan2005**\nTelegram Group: @linux_repo\nOur Bot's Updates: @Discovery_Updates"
+        "**Developed by @MortalViking | @Ishwaranrudhara**"
       ]
 
       START_MSG = "**Hi, [{}](tg://user?id={})**\n__I can force members to join a specific channel before writing messages in the group.\nLearn more at /help__"
